@@ -1,0 +1,13 @@
+*.dll
+*.exe
+*.obj
+*.lib
+*.exp
+*.log
+*.o
+*.a
+!go.mod
+build/
+test_dll.*
+test_params.*
+build_test.bat
